@@ -1,2 +1,2 @@
 I am ready to learn course
-and made some changes
+and made some changes and made another change to this file.
